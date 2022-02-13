@@ -4,7 +4,7 @@ using MiscCodingProblems;
 namespace MiscCodingProblemsTest
 {
     [TestClass]
-    public class HasPairWithSumNaiveTest
+    public class HasPairWithSumTest
     {
         [TestMethod]
         public void GetSumNaive_SumExists_ReturnsTrue()
