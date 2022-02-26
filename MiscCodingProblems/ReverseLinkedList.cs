@@ -13,14 +13,13 @@ namespace MiscCodingProblems
     {
         public ListNode ReverseList(ListNode head)
         {
-            ListNode node;
             ListNode prev = null;
             while (head != null)
             {
-                node = head.next;
+                ListNode next = head.next;
                 head.next = prev;
                 prev = head;
-                head = node;
+                head = next;
             }
             return prev;
         }
