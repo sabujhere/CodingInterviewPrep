@@ -1,4 +1,4 @@
-﻿namespace MiscCodingProblems;
+﻿namespace MiscCodingProblems.Models;
 
 public class TreeNode
 {
