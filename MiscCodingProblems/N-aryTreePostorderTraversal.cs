@@ -5,9 +5,13 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using MiscCodingProblems.Models;
 
 namespace MiscCodingProblems
 {
+    /// <summary>
+    /// 589. N-ary Tree Preorder Traversal
+    /// </summary>
     public class N_aryTreePostorderTraversal
     {
         public IList<int> Postorder(TreeNode root)
