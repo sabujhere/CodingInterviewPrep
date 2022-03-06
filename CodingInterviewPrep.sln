@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.32112.339
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SlidingWindowsForStrings", "SlidingWindowsForStrings\SlidingWindowsForStrings.csproj", "{8D2CACE0-1D78-456C-8CA5-A865029B011E}"
 EndProject
@@ -9,9 +9,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{6693B00B
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SlidingWindowsForStringsTest", "Tests\SlidingWindowsForStringsTest\SlidingWindowsForStringsTest.csproj", "{EE6BAEA1-04D6-4825-B5C7-8F35C5597156}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiscCodingProblems", "MiscCodingProblems\MiscCodingProblems.csproj", "{32701A75-8457-4DCC-B90C-CBCAF3DEE2D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiscCodingProblems", "MiscCodingProblems\MiscCodingProblems.csproj", "{32701A75-8457-4DCC-B90C-CBCAF3DEE2D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiscCodingProblemsTest", "Test\MiscCodingProblemsTest\MiscCodingProblemsTest.csproj", "{469A2A62-FE79-4217-A240-C22D709F5ED6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiscCodingProblemsTest", "MiscCodingProblemsTest\MiscCodingProblemsTest.csproj", "{F1F9AF37-8851-4902-8B7E-31F56DD63EB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,17 +31,17 @@ Global
 		{32701A75-8457-4DCC-B90C-CBCAF3DEE2D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32701A75-8457-4DCC-B90C-CBCAF3DEE2D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32701A75-8457-4DCC-B90C-CBCAF3DEE2D5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{469A2A62-FE79-4217-A240-C22D709F5ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{469A2A62-FE79-4217-A240-C22D709F5ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{469A2A62-FE79-4217-A240-C22D709F5ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{469A2A62-FE79-4217-A240-C22D709F5ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1F9AF37-8851-4902-8B7E-31F56DD63EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1F9AF37-8851-4902-8B7E-31F56DD63EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1F9AF37-8851-4902-8B7E-31F56DD63EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1F9AF37-8851-4902-8B7E-31F56DD63EB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{EE6BAEA1-04D6-4825-B5C7-8F35C5597156} = {6693B00B-F9C0-4886-AAB2-F62E1E2F4182}
-		{469A2A62-FE79-4217-A240-C22D709F5ED6} = {6693B00B-F9C0-4886-AAB2-F62E1E2F4182}
+		{F1F9AF37-8851-4902-8B7E-31F56DD63EB4} = {6693B00B-F9C0-4886-AAB2-F62E1E2F4182}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0C56ADA1-FB1B-43CD-B545-F684B9F7528F}
