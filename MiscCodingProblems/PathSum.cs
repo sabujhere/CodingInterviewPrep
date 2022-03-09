@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace MiscCodingProblems
 {
+    /// <summary>
+    /// 112. Path Sum
+    /// </summary>
     public class PathSum
     {
         public bool HasPathSum(InorderTreeNode root, int targetSum)
