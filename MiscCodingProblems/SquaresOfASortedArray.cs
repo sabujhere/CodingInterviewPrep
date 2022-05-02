@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace MiscCodingProblems
 {
+    /// <summary>
+    /// 977. Squares of a Sorted Array
+    /// </summary>
     public class SquaresOfASortedArray
     {
         public int[] SortedSquares(int[] nums)
