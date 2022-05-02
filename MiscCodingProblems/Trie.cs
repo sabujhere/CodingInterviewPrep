@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace MiscCodingProblems
 {
+    /// <summary>
+    /// 208. Implement Trie (Prefix Tree)
+    /// </summary>
     public class TrieNode
     {
         public Dictionary<char, TrieNode> Children { get; set; } = new();
